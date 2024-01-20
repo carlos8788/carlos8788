@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hi , I'm Luis Carlos </b><img src="muscle.png" width="70"></h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Work+Sans&weight=800&size=30&pause=1000&color=42BDF7&random=false&width=700&lines=Love+for+back-end+and+a+fondness+for+front-end." alt="SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Work+Sans&weight=800&size=28&pause=1000&color=42BDF7&random=false&width=600&lines=Love+for+back-end+and+a+fondness+for+front-end." alt="SVG" />
 </p>
 
 
